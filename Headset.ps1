@@ -1,5 +1,5 @@
 $svv = "C:\ProgramData\chocolatey\bin\SoundVolumeView.exe"
-$id = "{0.0.0.00000000}.{8c241ab9-a757-4530-8099-62825a54f735}"
+$id = "{0.0.0.00000000}.{4a10e23e-778c-457b-b112-24dc68bf3885}"
 
 & $svv /SetDefault "$id" all
 
