@@ -1,0 +1,16 @@
+Зависимости для для работы
+JoyToKey для вызова с баттон бокса
+
+кнопки 15-16 звук
+E:\Dropbox\Scripts\Windows\Headset.ps1
+E:\Dropbox\Scripts\Windows\Philips.ps1
+
+кнопки 17-18 монитор
+E:\Dropbox\Scripts\Windows\set-2560.ps1
+E:\Dropbox\Scripts\Windows\set-3440.ps1
+
+Модуль для повершелла для уведомлений 
+Проверить наличие модуля
+Get-Module -ListAvailable BurntToast
+Установить модуль если нет
+Install-Module -Name BurntToast -Scope CurrentUser
